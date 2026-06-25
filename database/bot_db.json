@@ -1,0 +1,15 @@
+{
+  "users": [],
+  "settings": {
+    "credits_per_ref": 0,
+    "default_credits": 0,
+    "maintenance_mode": false,
+    "referral_active": false,
+    "channel_id": null,
+    "always_mr": false,
+    "paid_only_mode": true,
+    "plan_message": "<blockquote>💎 <b>EXCLUSIVE PREMIUM OFFER!</b>\n\nContact support to buy credits.</blockquote>",
+    "start_sticker": "CAACAgIAAxkBAAEL6VdmAe6pXqL3P2wZ6Z_0p6Q2Y_S7XgACRAADr8ZRGm9-vWj498_rNAQ"
+  },
+  "sessions": {}
+}
